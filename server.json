@@ -1,0 +1,35 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Churrasco Grego",
+      "description": "Produzidos com cubos de alcatra bovina, lombo e linguiça suínos, eles vêm prontos e temperados em um mesmo espeto para ir ao fogo e agradar todos os gostos.",
+      "image": "https://www.vivaespetos.com.br/wp-content/uploads/2019/05/misto.jpg",
+      "price": "35",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Veggie",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "price": "21.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+    },
+    {
+      "id": 3,
+      "name": "A la Camarón",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": "25.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Coxinha de frango",
+      "price": "10",
+      "description": "teste",
+      "id": 4
+    }
+  ]
+}
